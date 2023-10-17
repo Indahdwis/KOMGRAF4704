@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697560695 source:d:\kompgraf\hw3\ddaline - 2\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<iostream>
+
